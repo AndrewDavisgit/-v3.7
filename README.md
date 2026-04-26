@@ -1,10 +1,10 @@
 #CodeBoy微信抢红包外挂
 
 #### 效果预览
-![](show_min.gif)
-
-####源码下载地址:[https://github.com/lendylongli/qianghongbao](https://github.com/lendylongli/qianghongbao)
-####apk下载地址 : <a href="http://t.cn/RbrdRHe" target="_blank">下载最新版本</a>
+![](1.mp4)
+![](57b2fa8fd8cebc97826222843218470e.jpg)
+![](d8fdb76e9984949425457f9fbef070d7.jpg)
+![](3.jpg)
 
 ##前言
 Codeboy抢红包是我在2015年春节过年期间编写的一个开源的兴趣项目，只要是将整个核心抢红包的流程编写出来，至于再复杂的一些操作就没深入研究。当这个项目发布后，也是反应挺大的，很多网友也找到我了与交流，也有做淘宝的人给钱让我去增加一些功能，当然我是拒绝的。而本文通过抢红包这个示例去讲解AccessibilityService的用途，希望大家能举一反三去学习这个辅助服务的强大之处。
